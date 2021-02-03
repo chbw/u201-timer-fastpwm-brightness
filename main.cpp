@@ -12,12 +12,18 @@
 
 #include <avr/io.h>
 
+void setup()
+{
+	
+}
 
 int main(void)
 {
-    /* Replace with your application code */
-    while (1) 
+	setup();
+    
+	while (1) 
     {
+				
     }
 }
 
